@@ -1,4 +1,4 @@
-# SafeShe  
+# SheSafe
 ### AI-Based SOS Communicator with Speech Stress & Motion Anomaly Detection
 
 SafeShe is an AI-powered Android application designed to enhance women's safety by automatically detecting distress situations using speech stress analysis and motion anomaly detection. The system works in real time and sends SOS alerts without requiring manual intervention.
